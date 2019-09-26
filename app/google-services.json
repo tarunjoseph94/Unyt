@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "771049828158",
+    "firebase_url": "https://unyt-b340b.firebaseio.com",
+    "project_id": "unyt-b340b",
+    "storage_bucket": "unyt-b340b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771049828158:android:a31e54c3ab2e019b51466f",
+        "android_client_info": {
+          "package_name": "com.example.josephs.unyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771049828158-k4bv37l5v5s42g1ib1m09antusltaik9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.josephs.unyt",
+            "certificate_hash": "c472cab235635e311a6f20e0c00e5e664f866c27"
+          }
+        },
+        {
+          "client_id": "771049828158-rcjrdila41c3qt5onit1q0fo7fujkdrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBia-LUMvkQnVooOdAs6_DBgR6EEAwOYtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771049828158-rcjrdila41c3qt5onit1q0fo7fujkdrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
